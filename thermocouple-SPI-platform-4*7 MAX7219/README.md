@@ -7,6 +7,7 @@ Data converter Thermocouple-SPI-Platform-4*7 MAX7219
 According to the technical specifications, the rotation of the stepper motor should replace the gear mechanism in the clock-type indicator. The deviation of the arrow should indicate the current temperature.
 
 ![image](https://github.com/user-attachments/assets/5d141d18-aef0-4002-819b-4f4f111c1871)
+
 Clock-type temperature indicator
 
 Circuit components:
