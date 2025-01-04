@@ -16,3 +16,5 @@ Circuit components:
 -LED GNQ-5641AS-21
 
 -Resistor SR1206FR-07220RL*8
+
+![image](https://github.com/user-attachments/assets/88f1f0f0-60ab-423c-89fe-3aa6e9f84746)
