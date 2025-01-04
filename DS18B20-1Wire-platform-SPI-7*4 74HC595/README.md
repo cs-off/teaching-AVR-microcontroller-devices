@@ -18,3 +18,5 @@ Circuit components:
 -Resistor RC1206FR-0747KL (4,7 kOhm)*1
 
 ![image](https://github.com/user-attachments/assets/6f2ffd01-8c22-4090-9bab-53fd38ba3bb7)
+
+![image](https://github.com/user-attachments/assets/514d970e-bedf-4433-863c-8a138f7aad99)
