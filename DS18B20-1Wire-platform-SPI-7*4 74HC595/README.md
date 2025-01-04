@@ -16,3 +16,5 @@ Circuit components:
 -Resistor SR1206FR-07220RL (220 Ohm)*8
 
 -Resistor RC1206FR-0747KL (4,7 kOhm)*1
+
+![image](https://github.com/user-attachments/assets/6f2ffd01-8c22-4090-9bab-53fd38ba3bb7)
