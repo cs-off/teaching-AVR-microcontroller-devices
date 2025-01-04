@@ -17,3 +17,5 @@ Circuit components:
 -Stepper motor 28BYJ-48-5V *1
 
 -Thermocouple MAX6675 *1
+
+![image](https://github.com/user-attachments/assets/88f1f0f0-60ab-423c-89fe-3aa6e9f84746)
