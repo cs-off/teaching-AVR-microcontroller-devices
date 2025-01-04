@@ -8,6 +8,6 @@ Circuit components:
 
 -Arduino platform
 
--Stepper motor 28BYJ-48-5V *1
+-LED Indicator 4*7  MAX7219 *1
 
 -Thermocouple MAX6675 *1
