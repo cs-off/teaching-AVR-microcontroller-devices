@@ -15,3 +15,5 @@ Circuit components:
 -74HC165*2
 
 -LED 7-segment I2C TM1637
+
+![image](https://github.com/user-attachments/assets/468d5162-22ec-4bfc-977f-475af3fa3e08)
