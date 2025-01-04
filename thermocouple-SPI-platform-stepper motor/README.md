@@ -1,4 +1,4 @@
-Data converter Thermocouple-SPI-Platform-4*7 MAX7219
+Data converter Thermocouple-SPI-platform-Stepper motor 28BYJ-48-5V
 =
 
   According to the technical specifications, it is necessary to organize the transmission of an analog value from the thermocouple signal converter to the Arduino Uno platform, process the information, and rotate the stepper motor proportionally to the received value.
