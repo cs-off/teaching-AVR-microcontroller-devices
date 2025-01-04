@@ -12,3 +12,5 @@ Circuit components:
 -MAX7219 *1
 
 -LED GNQ-5641AS-21
+
+![image](https://github.com/user-attachments/assets/f9ffaeb7-dfde-429e-b8ba-af78f8f535c7)
