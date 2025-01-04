@@ -2,8 +2,6 @@ Data converter Thermocouple-SPI-Platform-4*7 MAX7219
 =
 
 
-Clock-type temperature indicator
-
 Circuit components:
 
 -Arduino platform
