@@ -16,3 +16,5 @@ Circuit components:
 -Resistor SR1206FR-07220RL*8
 
 ![1](https://github.com/user-attachments/assets/3d47ab92-5ede-4ca9-ad56-0f3ad877cc9a)
+
+![image](https://github.com/user-attachments/assets/c2b188d4-5423-41ec-9f95-5659cbb1b743)
