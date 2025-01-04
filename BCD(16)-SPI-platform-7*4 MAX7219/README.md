@@ -17,3 +17,5 @@ Circuit components:
 -MAX7219 *1
 
 ![image](https://github.com/user-attachments/assets/dc7ae951-88be-4192-bdb7-7be3f0e6bb20)
+
+![image](https://github.com/user-attachments/assets/f9ffaeb7-dfde-429e-b8ba-af78f8f535c7)
