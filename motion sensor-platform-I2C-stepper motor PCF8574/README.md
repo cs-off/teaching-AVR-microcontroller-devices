@@ -11,5 +11,6 @@ Components:
 
 -Expander PCF8574 I2C*1
 
+-Stepper motor 28BYJ *1
 
 ![image](https://github.com/user-attachments/assets/52b64a29-af6c-4d53-b7a1-08bda1f31e54)
