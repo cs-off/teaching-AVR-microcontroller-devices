@@ -3,9 +3,9 @@ Data converter Motion sensor-Platform-I2C-Stepper motor PCF8574
 
 Components:
 
-- Arduino platform
+-Arduino platform
   
-- Motion sensor PIR HC-SR501*1
+-Motion sensor PIR HC-SR501*1
 
 -Expander PCF8574 I2C*1
 
